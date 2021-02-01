@@ -1,0 +1,10 @@
+[
+	{
+	"defaultBookSourcesUrl":"https://gitee.com/wt005/book-sources/raw/master/defaultbookSources.txt",
+	"networkConfiguration ":"0",
+	"promptToUpdate":"1",
+	"disableAPP":"1",
+	"disableAPPVersion":"",
+	"disableStartDate":""
+	}
+]
